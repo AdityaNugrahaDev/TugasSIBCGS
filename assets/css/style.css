@@ -32,10 +32,14 @@ body {
     color: #ffffff;
 }
 
-
 .btn-outline-success:hover {
     background-color: #28a745;
     color: #ffffff;
+}
+
+.modal-body img {
+    max-width: 100%;
+    height: auto;
 }
 
 /* Media Query */
@@ -46,9 +50,4 @@ body {
     .btn-header {
         width: 100%;
     }
-}
-
-.modal-body img {
-    max-width: 100%;
-    height: auto;
 }
