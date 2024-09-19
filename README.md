@@ -1,4 +1,4 @@
-Tugas Studi Indenpenden Bersertifikat PT Citra Gama Sakti
+Tugas Mini Projek Studi Independen Bersertifikat di PT Citra Gama Sakti
 
 DETAIL TUGAS
 Membuat pokedex web app dengan fitur:
